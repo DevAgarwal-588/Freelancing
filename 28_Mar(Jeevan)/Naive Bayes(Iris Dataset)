@@ -1,8 +1,0 @@
-Question 1	
-Dataset: Iris Dataset
-Use sklearn library for loading iris dataset.
-Aim: Classiﬁcation using Naive Bayes classiﬁer
-●	Apply Naive Bayes classiﬁer assuming all features are independent.
-
-Do not use any predeﬁned library for classiﬁcation
-Report overall accuracy, class-wise accuracy, confusion matrix, and ROC curve.
