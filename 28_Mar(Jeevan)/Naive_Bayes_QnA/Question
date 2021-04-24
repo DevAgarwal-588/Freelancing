@@ -1,0 +1,18 @@
+Write your answers for the following question in the report.
+(a)	What is Naive Bayes’ assumption? How does it help? Explain with an example.
+ 
+(b)	For a Gaussian Bayes classiﬁer, which one of these structural assumptions is the one that most affects the trade-off between underﬁtting and overﬁtting:
+(i)	Whether we learn the class centers by Maximum Likelihood or Gradient Descent
+(ii)	Whether	we	assume	full	class	covariance	matrices	or	diagonal	class covariance matrices.
+(iii)	Whether we have equal class priors or priors estimated from the data.
+(iv)	Whether we allow classes to have different mean vectors or we force them to share the same mean vector
+
+(c)	Consider	a	two-class	one-feature	classiﬁcation	problem	with	the	following	Gaussian class-conditional densities. p(x|w1) = N(0, 1) and p(x|w2) = N(1, 2).
+Assume equal prior probabilities and 0-1 loss function. Solve the following two questions and show your work.
+(i)	What is the Bayes decision boundary?
+(ii)	Suppose the prior probabilities are changed as follows: P(w1) = 0.6 and P(w2) = 0.4. How will the decision boundary change?
+
+(d)	Consider the multivariate normal density for which σij = 0 and σii = σi 2 , i.e., Σ = diag(σ1 2 , σ2 2 , ..., σd 2 ).
+(i)	Show that the evidence is
+
+(ii)	Plot and describe the contours of constant density.
