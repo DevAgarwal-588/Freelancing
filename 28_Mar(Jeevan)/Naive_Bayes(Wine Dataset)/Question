@@ -1,0 +1,10 @@
+Dataset: Wine dataset
+(use sklearn library for loading the dataset)
+Aim: Naive Bayes Classiﬁcation
+Shuﬄe the data with seed value 42 and perform a 70- 30 stratiﬁed split of the data into a train and test set. Also, plot the class-wise distribution of data in the train and test set (one for a train set and one for test set).
+Compare the distributions. Now, perform classiﬁcation as follows:	
+
+(a)	Train a Gaussian Naive Bayes classiﬁer and report (a) the class priors, (b) mean and variance of each feature per class.
+(b)	Train another Gaussian Naive Bayes classiﬁer by setting prior probability for the classes. Repeat this experiment by setting priors in the ratios: (a) 40-40-20 and (b) 80-10-10.
+
+For all the experiments above, report the (a) accuracy, (b) confusion matrix, on the train and test set. State your observations and analysis. The report should include the distributions as well.
